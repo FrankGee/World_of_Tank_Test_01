@@ -1,10 +1,13 @@
 fileFormatVersion: 2
 guid: 8303fd73f37e84843843a7348963236d
-timeCreated: 1460874773
+timeCreated: 1460919810
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - fireEffect: {fileID: 121802, guid: 8f18e1d8c46c51f429429815455062fc, type: 2}
+  - bullet: {instanceID: 0}
+  - spawn: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
